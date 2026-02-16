@@ -67,23 +67,6 @@ Production plants require structured systems to manage inventory, production bat
 
 ---
 
-## 📂 Repository Structure
-
-/schema
-/sql
-/erd
-/images
-README.md
-
-
-
----
-
-## 📎 Project Link
-
-[Portfolio Page]
-
----
 
 ## 📌 Key Takeaway
 
